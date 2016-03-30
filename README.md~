@@ -16,5 +16,3 @@ https://en.wikipedia.org/wiki/Adjacency_list
 Input format:
 N -> number of vertices in the graph
 The adjacency matrix with size N x N
-
-Usage: ./four_color infile outfile
