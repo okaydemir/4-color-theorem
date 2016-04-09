@@ -1,20 +1,21 @@
 # 4-color-theorem
-C++ Four color theorem implementation using greedy coloring (Welsh-Powell algorithm).
+C++ Four color theorem implementation using greedy coloring (Welsh-Powell algorithm). </br>
 
-Check out:
-https://en.wikipedia.org/wiki/Four_color_theorem
-https://en.wikipedia.org/wiki/Greedy_coloring
-http://mrsleblancsmath.pbworks.com/w/file/fetch/46119304/vertex%20coloring%20algorithm.pdf
+# Check out
+https://en.wikipedia.org/wiki/Four_color_theorem </br>
+https://en.wikipedia.org/wiki/Greedy_coloring </br>
+http://mrsleblancsmath.pbworks.com/w/file/fetch/46119304/vertex%20coloring%20algorithm.pdf </br>
 
-Further:
-https://en.wikipedia.org/wiki/Greedy_algorithm
+Further: </br>
+https://en.wikipedia.org/wiki/Greedy_algorithm </br>
 
-For dummies:
-https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29
-https://en.wikipedia.org/wiki/Adjacency_list
+For dummies: </br>
+https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29 </br>
+https://en.wikipedia.org/wiki/Adjacency_list </br>
 
-Input format:
+# Input format
 N -> number of vertices in the graph
 The adjacency matrix with size N x N
 
-Usage: ./four_color infile outfile
+# Usage 
+./four_color infile outfile
